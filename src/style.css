@@ -1,0 +1,16 @@
+.im{
+    width: 350px;
+    display:inline-block;
+    padding-left: 150px;
+    height: 250px;
+}
+.titlered{
+  text-align: center;
+  font-family:"Cambria", "Cochin", Georgia, Times, 'Times New Roman', serif;
+  color: red;
+}
+.vd{
+    height: 400px;
+    width: 400px;
+padding-left: 500px;
+}
